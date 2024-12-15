@@ -40,7 +40,7 @@
     "ACTIVITY_CARD_BACKGROUND": ["#00FF00", "#130a2e", "#130a2e"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#1a234e", "#1a234e", "#1a234e"],
     "REDESIGN_ACTIVITY_CARD_BORDER": ["#1d63b3"],
-    "CARD_PRIMARY_BG": ["#071240", "#071240", "#071240"],
+    "CARD_PRIMARY_BG": ["#0041c2", "#0041c2", "#0041c2"],
     "CARD_PRIMARY_PRESSED_BG": ["#1a234e", "#1a234e", "#1a234e"],
     "CARD_SECONDARY_BG": ["#1a234e", "#1a234e", "#1a234e"],
     "CARD_SECONDARY_PRESSED_BG": ["#123456", "#123456", "#123456"],
@@ -94,7 +94,8 @@
     "_comment1": "background floating là thanh bên dưới gồm có setting, thông báo và list server ",
     "_comment2": "bg nested floating là màu bg của embed, bg primary là màu của thanh chat & thanh trên đỉnh",
     "_comment3": "bg secondary là màu bg của profile, màu của embed, bg của list thành viên, màu bg folder, thanh server dưới phần emoji và bg setting",
-    "_comment4": "bg tertiary là màu của embed của link, bg accent là màu của icon trên góc phải của icon server (như streaming, voicecall, event)"
+    "_comment4": "bg tertiary là màu của embed của link, bg accent là màu của icon trên góc phải của icon server (như streaming, voicecall, event)",
+    "_comment5": "card primary bg là màu nền của vài cái box hay khung nhỏ (như trong profile hay setting)"
   },
   "background": {
     "blur": 0.6,
