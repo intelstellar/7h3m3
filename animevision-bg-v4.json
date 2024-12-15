@@ -53,7 +53,7 @@
     "BORDER_SUBTLE": ["#1d63b3"]
   },
   "rawColors": {
-    "PLUM_18": "#f8c8dc",
+    "PLUM_18": "#123456",
     "PRIMARY_100": "#FFFFFF", 
     "PRIMARY_200": "#FFFFFF", 
     "PRIMARY_300": "#FFFFFF", 
@@ -63,8 +63,8 @@
     "PRIMARY_500": "#235DA0",
     "PRIMARY_560": "#1a234e", 
     "PRIMARY_600": "#081240", 
-    "PRIMARY_630": "#f8c8dc", 
-    "PRIMARY_660": "#f8c8dc", 
+    "PRIMARY_630": "#123456", 
+    "PRIMARY_660": "#123456", 
     "PRIMARY_700": "#0041c2", 
     "PRIMARY_800": "#0041c2",
     "BRAND_260": "#bcc1f9",
