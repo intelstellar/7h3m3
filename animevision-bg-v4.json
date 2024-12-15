@@ -19,7 +19,7 @@
     "BACKGROUND_SECONDARY_ALT": ["#0041c2", "#0041c2", "#0041c2"],
     "BACKGROUND_TERTIARY": ["#0041c2", "#0041c2", "#0041c2"],
     "BACKGROUND_ACCENT": ["#FF0000", "#FF0000", "#FF0000"],
-    "BACKGROUND_FLOATING": ["#123456", "#123456", "#123456"],
+    "BACKGROUND_FLOATING": ["#4169E1", "#4169E1", "#4169E1"],
     "BACKGROUND_MOBILE_PRIMARY": ["#0041c2", "#0041c2", "#0041c2"],
     "BACKGROUND_MOBILE_SECONDARY": ["#0041c2", "#0041c2", "#0041c2"],
     "BACKGROUND_NESTED_FLOATING": ["#4863A0", "#4863A0", "#4863A0"],
@@ -34,7 +34,7 @@
     "CHANNELTEXTAREA_BACKGROUND": ["#a4a4a4"],
     "CHANNEL_ICON": ["#8F9397", "#8F9397", "#8F9397"],
     "CHANNELS_DEFAULT": ["#8F9397", "#8F9397", "#8F9397"],
-    "CHAT_BACKGROUND": ["#030818"],
+    "CHAT_BACKGROUND": ["#000000"],
     "SPOILER_HIDDEN_BACKGROUND": ["#0e163b", "#0e163b", "#0e163b"],
     "KEYBOARD": ["#081240"],
     "ACTIVITY_CARD_BACKGROUND": ["#00FF00", "#130a2e", "#130a2e"],
@@ -94,7 +94,7 @@
     "_comment1": "background floating là thanh bên dưới gồm có setting, thông báo và list server ",
     "_comment2": "bg nested floating là màu bg của embed, bg primary là màu của thanh chat & thanh trên đỉnh",
     "_comment3": "bg secondary là màu bg của profile, màu của embed, bg của list thành viên, màu bg folder, thanh server dưới phần emoji và bg setting",
-    "_comment3": "bg tertiary là màu của embed của link"
+    "_comment3": "bg tertiary là màu của embed của link, bg accent là màu của icon trên góc phải của icon server (như streaming, voicecall, event)"
   },
   "background": {
     "blur": 0.6,
