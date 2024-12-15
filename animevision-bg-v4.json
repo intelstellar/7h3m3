@@ -94,7 +94,7 @@
     "_comment1": "background floating là thanh bên dưới gồm có setting, thông báo và list server ",
     "_comment2": "bg nested floating là màu bg của embed, bg primary là màu của thanh chat & thanh trên đỉnh",
     "_comment3": "bg secondary là màu bg của profile, màu của embed, bg của list thành viên, màu bg folder, thanh server dưới phần emoji và bg setting",
-    "_comment3": "bg tertiary là màu của embed của link, bg accent là màu của icon trên góc phải của icon server (như streaming, voicecall, event)"
+    "_comment4": "bg tertiary là màu của embed của link, bg accent là màu của icon trên góc phải của icon server (như streaming, voicecall, event)"
   },
   "background": {
     "blur": 0.6,
