@@ -15,9 +15,9 @@
     "TEXT_LINK": ["#459DFF", "#459DFF", "#459DFF"],
     "BG_BACKDROP": ["#0712407F"],
     "BACKGROUND_PRIMARY": ["#000000", "#000000", "#000000"],
-    "BACKGROUND_SECONDARY": ["#FF7900", "#FF7900", "#FF7900"],
+    "BACKGROUND_SECONDARY": ["#0041c2", "#0041c2", "#0041c2"],
     "BACKGROUND_SECONDARY_ALT": ["#0041c2", "#0041c2", "#0041c2"],
-    "BACKGROUND_TERTIARY": ["#00b140", "#00b140", "#00b140"],
+    "BACKGROUND_TERTIARY": ["#0041c2", "#0041c2", "#0041c2"],
     "BACKGROUND_ACCENT": ["#FF0000", "#FF0000", "#FF0000"],
     "BACKGROUND_FLOATING": ["#123456", "#123456", "#123456"],
     "BACKGROUND_MOBILE_PRIMARY": ["#0e163b", "#0e163b", "#0e163b"],
@@ -93,7 +93,8 @@
   "_comment": {
     "_comment1": "background floating là thanh bên dưới gồm có setting, thông báo và list server ",
     "_comment2": "bg nested floating là màu bg của embed, bg primary là màu của thanh chat & thanh trên đỉnh",
-    "_comment3": "thôi note sau, loạn vcls"
+    "_comment3": "bg secondary là màu bg của profile, màu của embed, bg của list thành viên, màu bg folder và bg setting",
+    "_comment3": "bg tertiary là màu của embed của link"
   },
   "background": {
     "blur": 0.6,
