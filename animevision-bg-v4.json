@@ -26,7 +26,7 @@
     "BACKGROUND_MESSAGE_HOVER": ["#2677d3", "#2677d3", "#2677d3"],
     "BACKGROUND_MODIFIER_HOVER": ["#2677d3", "#2677d3", "#2677d3"],
     "BACKGROUND_MODIFIER_SELECTED": ["#2677d3", "#2677d3", "#2677d3"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#145eb3", "#145eb3", "#145eb3"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0041c2", "#0041c2", "#0041c2"],
     "INTERACTIVE_NORMAL": ["#A1CEFF", "#A1CEFF", "#A1CEFF"],
     "INTERACTIVE_HOVER": ["#123456", "#123456", "#123456"],
     "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
@@ -95,7 +95,8 @@
     "_comment2": "bg nested floating là màu bg của embed, bg primary là màu của thanh chat & thanh trên đỉnh",
     "_comment3": "bg secondary là màu bg của profile, màu của embed, bg của list thành viên, màu bg folder, thanh server dưới phần emoji và bg setting",
     "_comment4": "bg tertiary là màu của embed của link, bg accent là màu của icon trên góc phải của icon server (như streaming, voicecall, event)",
-    "_comment5": "card primary bg là màu nền của vài cái box hay khung nhỏ (như trong profile hay setting)"
+    "_comment5": "card primary bg là màu nền của vài cái box hay khung nhỏ (như trong profile hay setting)",
+    "_comment6": "bg modifier accent là màu nền của channel trên channel list khi mình chọn"
   },
   "background": {
     "blur": 0.6,
