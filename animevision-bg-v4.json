@@ -20,8 +20,8 @@
     "BACKGROUND_TERTIARY": ["#0041c2", "#0041c2", "#0041c2"],
     "BACKGROUND_ACCENT": ["#FF0000", "#FF0000", "#FF0000"],
     "BACKGROUND_FLOATING": ["#123456", "#123456", "#123456"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#0e163b", "#0e163b", "#0e163b"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#151B54", "#151B54", "#151B54"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0041c2", "#0041c2", "#0041c2"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0041c2", "#0041c2", "#0041c2"],
     "BACKGROUND_NESTED_FLOATING": ["#4863A0", "#4863A0", "#4863A0"],
     "BACKGROUND_MESSAGE_HOVER": ["#2677d3", "#2677d3", "#2677d3"],
     "BACKGROUND_MODIFIER_HOVER": ["#2677d3", "#2677d3", "#2677d3"],
@@ -93,7 +93,7 @@
   "_comment": {
     "_comment1": "background floating là thanh bên dưới gồm có setting, thông báo và list server ",
     "_comment2": "bg nested floating là màu bg của embed, bg primary là màu của thanh chat & thanh trên đỉnh",
-    "_comment3": "bg secondary là màu bg của profile, màu của embed, bg của list thành viên, màu bg folder và bg setting",
+    "_comment3": "bg secondary là màu bg của profile, màu của embed, bg của list thành viên, màu bg folder, thanh server dưới phần emoji và bg setting",
     "_comment3": "bg tertiary là màu của embed của link"
   },
   "background": {
